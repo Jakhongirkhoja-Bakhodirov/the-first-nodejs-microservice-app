@@ -69,5 +69,8 @@
   "bugs": {
     "url": "https://github.com/Jakhongirkhoja-Bakhodirov/the-first-nodejs-microservice-app/issues"
   },
-  "homepage": "https://github.com/Jakhongirkhoja-Bakhodirov/the-first-nodejs-microservice-app#readme"
+  "homepage": "https://github.com/Jakhongirkhoja-Bakhodirov/the-first-nodejs-microservice-app#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
